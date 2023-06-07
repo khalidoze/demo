@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="678adbab-4198-4a41-9b51-62fc9ee3bba2" name="Changes" comment="commit initial" />
+    <list default="true" id="678adbab-4198-4a41-9b51-62fc9ee3bba2" name="Changes" comment="commit initial&#10;projet JavaFx" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -47,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686150245716</updated>
-      <workItem from="1686150246769" duration="870000" />
+      <workItem from="1686150246769" duration="1293000" />
     </task>
     <task id="LOCAL-00001" summary="commit initial">
       <created>1686151096890</created>
@@ -56,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686151096890</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit initial&#10;projet JavaFx">
+      <created>1686151156612</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686151156612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit initial" />
+    <MESSAGE value="commit initial&#10;projet JavaFx" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit initial&#10;projet JavaFx" />
   </component>
 </project>
